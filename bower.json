@@ -1,10 +1,11 @@
 {
-  "name": "leaflet-color-markers",
-  "homepage": "https://github.com/pointhi/leaflet-color-markers",
+  "name": "ogi-leaflet-color-markers",
+  "homepage": "https://github.com/ogi-ogham/leaflet-color-markers",
   "authors": [
-    "Thomas Pointhuber <thomas.pointhuber@gmx.at>"
+    "Thomas Pointhuber <thomas.pointhuber@gmx.at>",
+	"Florian Thiery <rse@fthiery.de>"
   ],
-  "description": "color variations of the standard leaflet marker",
+  "description": "color variations of the standard leaflet marker and markers for OGI OGHAM applications",
   "main": "js/leaflet-color-markers.js",
   "license": "BSD-2-Clause",
   "dependencies": {
