@@ -104,3 +104,17 @@ var ercIcon = new L.Icon({
 	iconAnchor: [20, 41],
 	popupAnchor: [0, -41]
 });
+
+var delagniIcon = new L.Icon({
+	iconUrl: 'img/DALAGNI-2x.png',
+	iconSize: [41, 41],
+	iconAnchor: [20, 41],
+	popupAnchor: [0, -41]
+});
+
+var dercmasocIcon = new L.Icon({
+	iconUrl: 'img/DERCMASOC-2x.png',
+	iconSize: [41, 41],
+	iconAnchor: [20, 41],
+	popupAnchor: [0, -41]
+});
