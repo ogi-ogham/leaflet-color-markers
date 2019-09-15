@@ -90,3 +90,10 @@ var mucoiIcon = new L.Icon({
 	iconAnchor: [20, 41],
 	popupAnchor: [0, -41]
 });
+
+var lugIcon = new L.Icon({
+	iconUrl: 'img/LUG-2x.png',
+	iconSize: [41, 41],
+	iconAnchor: [20, 41],
+	popupAnchor: [0, -41]
+});
