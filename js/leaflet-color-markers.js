@@ -69,3 +69,10 @@ var blackIcon = new L.Icon({
 	popupAnchor: [1, -34],
 	shadowSize: [41, 41]
 });
+
+var cattuIcon = new L.Icon({
+	iconUrl: 'img/CATTU-2x.png',
+	iconSize: [41, 41],
+	iconAnchor: [20, 41],
+	popupAnchor: [1, -34]
+});
