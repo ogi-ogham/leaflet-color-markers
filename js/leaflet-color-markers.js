@@ -76,3 +76,10 @@ var cattuIcon = new L.Icon({
 	iconAnchor: [20, 41],
 	popupAnchor: [0, -41]
 });
+
+var cunaIcon = new L.Icon({
+	iconUrl: 'img/CUNA-2x.png',
+	iconSize: [41, 41],
+	iconAnchor: [20, 41],
+	popupAnchor: [0, -41]
+});
