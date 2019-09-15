@@ -97,3 +97,10 @@ var lugIcon = new L.Icon({
 	iconAnchor: [20, 41],
 	popupAnchor: [0, -41]
 });
+
+var ercIcon = new L.Icon({
+	iconUrl: 'img/ERC-2x.png',
+	iconSize: [41, 41],
+	iconAnchor: [20, 41],
+	popupAnchor: [0, -41]
+});
