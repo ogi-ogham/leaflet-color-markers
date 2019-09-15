@@ -6,7 +6,8 @@ color variations of the standard leaflet marker and the OGI OGHAM markers:
 | Color | Marker 2x  | Marker  |
 | ------------- |:-------------:|:-----:|
 | CATTU | ![Marker CATTU 2x](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/CATTU-2x.png) | ![Marker CATTU](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/CATTU.png) |
-| CUNA | ![Marker CATTU 2x](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/CUNA-2x.png) | ![Marker CATTU](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/CUNA.png) |
+| CUNA | ![Marker CUNA 2x](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/CUNA-2x.png) | ![Marker CUNA](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/CUNA.png) |
+| MUCOI | ![Marker MUCOI 2x](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/MUCOI-2x.png) | ![Marker MUCOI](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/MUCOI.png) |
 | Blue | ![Marker Red 2x](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/marker-icon-2x-blue.png) | ![Marker Red](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/marker-icon-blue.png) |
 | Red | ![Marker Red 2x](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/marker-icon-2x-red.png) | ![Marker Red](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/marker-icon-red.png) |
 | Green | ![Marker Green 2x](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/marker-icon-2x-green.png) | ![Marker Green](https://raw.githubusercontent.com/ogi-ogham/leaflet-color-markers/master/img/marker-icon-green.png) |
